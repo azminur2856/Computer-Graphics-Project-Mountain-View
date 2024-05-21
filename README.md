@@ -5,3 +5,16 @@ The river in the project has boats moving through it. Many trees exist on the ba
 
 GLUT has been used for graphics rendering, along with OpenGL, and an appropriate programming language, which is C++, has been employed to implement the code. Code: Blocks has been used for this project.
 
+
+
+## _Developed by:_
+### __Project Leader__
+Name: AZMINUR RAHMAN  
+ID: 22-46588-1  
+Email: 22-46588-1@student.aiub.edu
+### __Member-1__
+MD.MEHEDI HASAN POLASH  
+ID: 22-46566-1  
+### __Member-2__
+TRIDIB SARKAR  
+ID: 22-46444-1  
